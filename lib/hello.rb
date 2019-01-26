@@ -13,4 +13,3 @@ hello_t(t) do |name|
     puts "Hi, #{name}"
   end
 end
-
